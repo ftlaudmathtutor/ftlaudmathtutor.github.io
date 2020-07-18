@@ -24,16 +24,18 @@ In this video, I briefly describe the two exciting changes for academic support 
 
 In this video, I describe the two types of sessions I'll be offering this year:
 
-1. Single Sessions
-2. Weekly Sessions
+1. Single Sessions: one-time academic support, available on [my Appointlet page](http://hamilton.appointlet.com)!
+2. Weekly Sessions: for students with predictable support needs, mananged by Appointlet.
 
 I also be demonstrating how you can use Appointlet to easily check when I'm available, book a new session, or reschedule/cancel an existing schedule - all on your own time, without having to wait to hear back from me.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/taxioeYKT_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can check out my Appointlet page [here](http://hamilton.appointlet.com)!
 
 ### Scheduling Policies
 
-In the second video, I described the rules that Appointlet will be using for booking, rescheduling, and cancelling sessions. Please take a look before you start booking sessions with me:
+In the second video, I described the rules that Appointlet will be using for booking, rescheduling, and cancelling both Single Sessions and Weekly Sessions. Please take a look so that you understand the expectations this year:
 
 {% include policies.html %}
 
