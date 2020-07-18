@@ -15,6 +15,9 @@
               {{ site.title | escape }}
             {%- endif -%}
             </li>
+            {%- if site.appointlet_url -%}
+            <li><a class="u-appointlet" href="{{ site.appointlet_url }}">Appointlet Booking</a></li>
+            {%- endif -%}
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
