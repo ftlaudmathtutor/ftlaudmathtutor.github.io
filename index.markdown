@@ -4,7 +4,7 @@
 
 title: Fall 2020 Updates
 layout: page
-updateId: G0EG1rqvpAg
+updateId: wXK63Wtvvrs
 ---
 
 Greetings! It's Hamilton. I hope this update finds you and your loved ones safe and well. 
