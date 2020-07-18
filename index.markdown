@@ -18,7 +18,7 @@ In this video, I briefly describe the two exciting changes for academic support 
 1. 100% Remote Sessions with Students: Safer + Better = Awesome
 2. Automated, Streamlined Scheduling with Appointlet
 
-{% include updatePlayer.html id=page.updateId %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G0EG1rqvpAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Session Types and Scheduling with Appointlet
