@@ -16,33 +16,35 @@ This page contains two short videos describing some changes that I'll be making 
 In this video, I briefly describe the two exciting changes for academic support this year:
 
 1. 100% Remote Sessions with Students: Safer + Better = Awesome
+
 2. Automated, Streamlined Scheduling with Appointlet
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wXK63Wtvvrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wXK63Wtvvrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="padding-bottom: 15px;"></iframe>
 
 ### Session Types and Scheduling with Appointlet
 
 In this video, I describe the two types of sessions I'll be offering this year:
 
-1. Single Sessions: one-time academic support, available on [my Appointlet page](http://hamilton.appointlet.com)!
-2. Weekly Sessions: for students with predictable support needs, mananged by Appointlet.
+1. **Single Sessions**: one-time academic support, available on [my Appointlet page](http://hamilton.appointlet.com)! Great for summer work and times when you just need some support.
+
+2. **Weekly Sessions**: for students with extremely predictable support needs. Let's talk in early August if you're interested in setting something up! Also managed by Appointlet.
 
 I also be demonstrating how you can use Appointlet to easily check when I'm available, book a new session, or reschedule/cancel an existing schedule - all on your own time, without having to wait to hear back from me.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/taxioeYKT_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-You can check out my Appointlet page [here](http://hamilton.appointlet.com)!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/taxioeYKT_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="padding-bottom: 15px;"></iframe>
 
 ### Scheduling Policies
 
-In the second video, I described the rules that Appointlet will be using for booking, rescheduling, and cancelling both Single Sessions and Weekly Sessions. Please take a look so that you understand the expectations this year:
+In the second video, I described the rules that Appointlet will be using for booking, rescheduling, and canceling both Single Sessions and Weekly Sessions. Here they are again, for your convenience:
 
 {% include policies.html %}
 
 
 ### Closing Thoughts
 
-2020 has obviously been an incredibly tumultuous year so far, but the educational show must go on. If you believe that academic support would help you or your child enjoy a more successful fall semester, please reach out so that we can discuss your situation and find a solution.
+2020 has obviously been an incredibly tumultuous year so far, but the educational show must go on. If you believe that academic support would help you or your child make the most of their time and enjoy a more successful semester, then I look forward to working with you.
+
+In the meantime, enjoy the rest of your summer vacation, stay safe, and be well.
 
 Sincerely,<br>
 Hamilton
